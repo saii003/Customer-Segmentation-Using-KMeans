@@ -9,6 +9,24 @@ This project segments customers into different groups based on Annual Income and
 The segmentation helps businesses identify different customer groups for targeted marketing and business strategies.
 
 ---
+---
+
+## Project Screenshots
+
+### Dataset Preview
+
+![Dataset Preview](dataset_preview.png)
+
+### Elbow Method
+
+![Elbow Method](elbow_method.png)
+
+### Customer Segments
+
+![Customer Segments](customer_segments.png)
+
+---
+
 
 ## Features
 
