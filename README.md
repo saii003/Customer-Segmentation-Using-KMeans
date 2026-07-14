@@ -1,5 +1,11 @@
 # Customer-Segmentation-Using-KMeans
 Machine Learning project for customer segmentation using K-Means clustering.
+## Model Performance
+
+- Algorithm: K-Means Clustering
+- Optimal Clusters: 5
+- Evaluation Method: Elbow Method
+
 
 
 ## Project Overview
@@ -26,6 +32,22 @@ The segmentation helps businesses identify different customer groups for targete
 ![Customer Segments](customer_segments.png)
 
 ---
+## Project Structure
+
+```text
+Customer-Segmentation-Using-KMeans
+│
+├── Customer_Segmentation_Using_KMeans.ipynb
+├── mall_customers.csv
+├── README.md
+├── index.html
+├── dataset_preview.png
+├── elbow_method.png
+├── customer_segments.png
+├── LICENSE
+└── .gitignore
+```
+
 
 
 ## Features
